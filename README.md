@@ -33,8 +33,13 @@ o	The maximum number of backers.
 o	The variance of the number of backers.
 o	The standard deviation of the number of backers.
 
+![image](https://user-images.githubusercontent.com/63757160/109450057-9b16e880-7a0f-11eb-8063-4a02ffa8e6e1.png)
 
 ![image](https://user-images.githubusercontent.com/63757160/109448625-05c62500-7a0c-11eb-957a-6a8e9a45df76.png)
+
+![image](https://user-images.githubusercontent.com/63757160/109449110-3c506f80-7a0d-11eb-98bf-47562b8961cf.png)
+
+
 
 
 
