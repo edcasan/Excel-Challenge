@@ -27,7 +27,7 @@ Creation a report in Microsoft Word and answer the following questions.
  
 •	Evaluation for unsuccessful campaigns:
 o	The mean number of backers.
-o	The median number of backers.
+o	The median number of backers,
 o	The minimum number of backers.
 o	The maximum number of backers.
 o	The variance of the number of backers.
